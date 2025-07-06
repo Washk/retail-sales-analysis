@@ -17,14 +17,20 @@ It simulates a real freelance client request — perfect for business decision s
 
 📊 Key Business Insights :
 💰 Total Revenue: ₹ 155870
+
 🏆 Top Products: Jeans, T-shirt, Oil, Shampoo, Notebook, Rice, Soap, Pen
+
 📦 Most Profitable Category: Clothing (₹ 127500)
+
 📈 Sales peaked in: May 2024
+
 👤 Top Customers: Priya Verma, Amit Patel, Neha Singh, Sohail Khan, Rajesh Kumar
 
 📌 Visuals Included :
 # Top-selling products (bar chart)
+
 # Revenue by category (bar chart)
+
 # Monthly revenue trend (line chart)
 
 🎯 Value for Clients :
