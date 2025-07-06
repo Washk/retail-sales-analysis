@@ -39,3 +39,11 @@ It simulates a real freelance client request — perfect for business decision s
 * Improve stock planning
 * Offer promotions to top customers
 * Monitor revenue trends monthly
+
+### ▶️ How to Run
+- Download `sales_data.csv` and open the `Retail_Sales_Analysis.ipynb` notebook.
+  
+- Run in Google Colab or Jupyter Notebook.
+  
+- Make sure `pandas`, `matplotlib`, and `seaborn` are installed.
+
