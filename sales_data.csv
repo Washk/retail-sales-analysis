@@ -1,0 +1,181 @@
+Date,Product,Category,Quantity,Unit Price,Revenue,Customer
+2024-05-06,Shampoo,Personal Care,1,100,100,Rajesh Kumar
+2024-03-12,Rice,Grocery,1,60,60,Rajesh Kumar
+2024-06-22,Notebook,Stationery,2,50,100,Amit Patel
+2024-05-12,Shampoo,Personal Care,3,100,300,Rajesh Kumar
+2024-03-20,Oil,Grocery,4,150,600,Amit Patel
+2024-02-15,Soap,Personal Care,4,40,160,Amit Patel
+2024-01-22,Jeans,Clothing,3,1200,3600,Kiran Joshi
+2024-03-04,Soap,Personal Care,3,40,120,Rajesh Kumar
+2024-05-20,Shampoo,Personal Care,5,100,500,Kiran Joshi
+2024-01-31,Pen,Stationery,2,20,40,Amit Patel
+2024-05-14,Rice,Grocery,3,60,180,Amit Patel
+2024-05-02,Jeans,Clothing,2,1200,2400,Priya Verma
+2024-03-26,T-shirt,Clothing,1,500,500,Priya Verma
+2024-03-04,Oil,Grocery,4,150,600,Rajesh Kumar
+2024-05-27,Rice,Grocery,2,60,120,Sohail Khan
+2024-01-20,Jeans,Clothing,4,1200,4800,Amit Patel
+2024-02-22,Notebook,Stationery,4,50,200,Priya Verma
+2024-01-18,T-shirt,Clothing,1,500,500,Priya Verma
+2024-04-15,Pen,Stationery,4,20,80,Priya Verma
+2024-02-11,Notebook,Stationery,3,50,150,Neha Singh
+2024-01-25,Oil,Grocery,5,150,750,Priya Verma
+2024-01-16,Pen,Stationery,4,20,80,Kiran Joshi
+2024-06-10,Jeans,Clothing,4,1200,4800,Amit Patel
+2024-03-14,Notebook,Stationery,1,50,50,Priya Verma
+2024-04-23,Rice,Grocery,5,60,300,Rajesh Kumar
+2024-04-27,Soap,Personal Care,1,40,40,Kiran Joshi
+2024-03-07,Oil,Grocery,4,150,600,Neha Singh
+2024-03-13,Pen,Stationery,3,20,60,Priya Verma
+2024-03-27,Jeans,Clothing,1,1200,1200,Priya Verma
+2024-03-09,Pen,Stationery,5,20,100,Neha Singh
+2024-06-12,Shampoo,Personal Care,3,100,300,Neha Singh
+2024-01-18,T-shirt,Clothing,3,500,1500,Rajesh Kumar
+2024-06-14,Oil,Grocery,1,150,150,Neha Singh
+2024-05-05,T-shirt,Clothing,5,500,2500,Priya Verma
+2024-04-08,T-shirt,Clothing,3,500,1500,Sohail Khan
+2024-04-20,Oil,Grocery,4,150,600,Rajesh Kumar
+2024-03-26,Notebook,Stationery,5,50,250,Amit Patel
+2024-02-24,T-shirt,Clothing,2,500,1000,Neha Singh
+2024-05-30,T-shirt,Clothing,2,500,1000,Neha Singh
+2024-04-02,Soap,Personal Care,2,40,80,Rajesh Kumar
+2024-04-20,Jeans,Clothing,1,1200,1200,Amit Patel
+2024-01-31,Pen,Stationery,4,20,80,Rajesh Kumar
+2024-01-06,Shampoo,Personal Care,2,100,200,Sohail Khan
+2024-06-23,Rice,Grocery,4,60,240,Rajesh Kumar
+2024-06-25,Pen,Stationery,3,20,60,Amit Patel
+2024-05-18,Pen,Stationery,2,20,40,Amit Patel
+2024-05-26,Notebook,Stationery,2,50,100,Kiran Joshi
+2024-01-26,T-shirt,Clothing,2,500,1000,Rajesh Kumar
+2024-02-04,T-shirt,Clothing,2,500,1000,Neha Singh
+2024-01-04,Soap,Personal Care,3,40,120,Rajesh Kumar
+2024-03-12,Jeans,Clothing,1,1200,1200,Neha Singh
+2024-06-24,Pen,Stationery,4,20,80,Kiran Joshi
+2024-06-20,Oil,Grocery,3,150,450,Priya Verma
+2024-03-12,T-shirt,Clothing,5,500,2500,Rajesh Kumar
+2024-05-19,Jeans,Clothing,5,1200,6000,Priya Verma
+2024-03-29,Pen,Stationery,5,20,100,Sohail Khan
+2024-05-20,Jeans,Clothing,2,1200,2400,Amit Patel
+2024-01-07,Soap,Personal Care,2,40,80,Sohail Khan
+2024-05-30,T-shirt,Clothing,2,500,1000,Sohail Khan
+2024-06-23,Pen,Stationery,1,20,20,Priya Verma
+2024-01-31,Pen,Stationery,5,20,100,Priya Verma
+2024-04-14,T-shirt,Clothing,3,500,1500,Sohail Khan
+2024-06-13,Soap,Personal Care,2,40,80,Rajesh Kumar
+2024-04-11,T-shirt,Clothing,2,500,1000,Priya Verma
+2024-05-23,Soap,Personal Care,5,40,200,Rajesh Kumar
+2024-06-06,T-shirt,Clothing,2,500,1000,Kiran Joshi
+2024-03-04,Pen,Stationery,4,20,80,Priya Verma
+2024-01-03,Shampoo,Personal Care,2,100,200,Amit Patel
+2024-06-09,Shampoo,Personal Care,3,100,300,Neha Singh
+2024-04-30,Jeans,Clothing,4,1200,4800,Neha Singh
+2024-05-28,Rice,Grocery,5,60,300,Kiran Joshi
+2024-04-25,Soap,Personal Care,4,40,160,Amit Patel
+2024-06-26,Rice,Grocery,1,60,60,Kiran Joshi
+2024-05-14,T-shirt,Clothing,4,500,2000,Neha Singh
+2024-02-21,Rice,Grocery,2,60,120,Neha Singh
+2024-01-11,Oil,Grocery,5,150,750,Kiran Joshi
+2024-06-17,Shampoo,Personal Care,3,100,300,Sohail Khan
+2024-03-08,Oil,Grocery,1,150,150,Priya Verma
+2024-03-10,T-shirt,Clothing,4,500,2000,Sohail Khan
+2024-03-26,Notebook,Stationery,5,50,250,Amit Patel
+2024-05-14,T-shirt,Clothing,5,500,2500,Amit Patel
+2024-03-03,Jeans,Clothing,4,1200,4800,Amit Patel
+2024-04-07,Notebook,Stationery,2,50,100,Rajesh Kumar
+2024-04-11,Oil,Grocery,3,150,450,Priya Verma
+2024-01-10,T-shirt,Clothing,1,500,500,Rajesh Kumar
+2024-06-11,Oil,Grocery,4,150,600,Rajesh Kumar
+2024-02-14,Pen,Stationery,3,20,60,Rajesh Kumar
+2024-03-02,Jeans,Clothing,3,1200,3600,Amit Patel
+2024-06-05,Oil,Grocery,1,150,150,Sohail Khan
+2024-04-21,T-shirt,Clothing,2,500,1000,Neha Singh
+2024-06-23,T-shirt,Clothing,4,500,2000,Amit Patel
+2024-04-25,Notebook,Stationery,3,50,150,Sohail Khan
+2024-04-17,Pen,Stationery,4,20,80,Kiran Joshi
+2024-06-15,Rice,Grocery,3,60,180,Amit Patel
+2024-06-13,Rice,Grocery,5,60,300,Sohail Khan
+2024-05-31,Rice,Grocery,4,60,240,Amit Patel
+2024-02-07,Rice,Grocery,3,60,180,Kiran Joshi
+2024-06-12,Soap,Personal Care,2,40,80,Sohail Khan
+2024-06-09,Soap,Personal Care,1,40,40,Kiran Joshi
+2024-02-21,Jeans,Clothing,4,1200,4800,Priya Verma
+2024-03-24,Shampoo,Personal Care,5,100,500,Sohail Khan
+2024-02-07,Shampoo,Personal Care,2,100,200,Sohail Khan
+2024-02-07,Pen,Stationery,1,20,20,Kiran Joshi
+2024-02-11,Oil,Grocery,4,150,600,Amit Patel
+2024-06-18,Notebook,Stationery,4,50,200,Amit Patel
+2024-03-04,Jeans,Clothing,3,1200,3600,Sohail Khan
+2024-04-02,Rice,Grocery,3,60,180,Sohail Khan
+2024-06-22,Notebook,Stationery,3,50,150,Priya Verma
+2024-05-03,Notebook,Stationery,5,50,250,Rajesh Kumar
+2024-01-29,Notebook,Stationery,2,50,100,Rajesh Kumar
+2024-05-18,Rice,Grocery,3,60,180,Rajesh Kumar
+2024-02-05,Oil,Grocery,5,150,750,Amit Patel
+2024-02-02,Rice,Grocery,1,60,60,Amit Patel
+2024-02-12,Rice,Grocery,3,60,180,Kiran Joshi
+2024-03-15,Oil,Grocery,3,150,450,Priya Verma
+2024-02-14,Shampoo,Personal Care,4,100,400,Rajesh Kumar
+2024-06-25,Jeans,Clothing,4,1200,4800,Neha Singh
+2024-06-01,Jeans,Clothing,4,1200,4800,Priya Verma
+2024-01-06,Notebook,Stationery,2,50,100,Kiran Joshi
+2024-01-24,Notebook,Stationery,4,50,200,Neha Singh
+2024-03-17,Rice,Grocery,1,60,60,Kiran Joshi
+2024-06-12,T-shirt,Clothing,4,500,2000,Priya Verma
+2024-03-18,Jeans,Clothing,1,1200,1200,Neha Singh
+2024-01-13,Shampoo,Personal Care,3,100,300,Priya Verma
+2024-01-29,Oil,Grocery,2,150,300,Rajesh Kumar
+2024-05-18,Pen,Stationery,5,20,100,Neha Singh
+2024-03-15,T-shirt,Clothing,1,500,500,Sohail Khan
+2024-02-21,Rice,Grocery,3,60,180,Neha Singh
+2024-03-25,Soap,Personal Care,1,40,40,Amit Patel
+2024-03-14,Oil,Grocery,2,150,300,Amit Patel
+2024-01-16,Notebook,Stationery,4,50,200,Rajesh Kumar
+2024-05-21,Notebook,Stationery,1,50,50,Rajesh Kumar
+2024-06-18,T-shirt,Clothing,1,500,500,Sohail Khan
+2024-06-03,Notebook,Stationery,1,50,50,Amit Patel
+2024-01-26,Oil,Grocery,5,150,750,Neha Singh
+2024-04-06,Shampoo,Personal Care,5,100,500,Priya Verma
+2024-01-30,Oil,Grocery,5,150,750,Neha Singh
+2024-05-10,Oil,Grocery,5,150,750,Amit Patel
+2024-06-18,Jeans,Clothing,3,1200,3600,Amit Patel
+2024-02-17,Notebook,Stationery,1,50,50,Kiran Joshi
+2024-02-05,Notebook,Stationery,1,50,50,Kiran Joshi
+2024-01-07,Rice,Grocery,2,60,120,Kiran Joshi
+2024-03-25,Oil,Grocery,5,150,750,Sohail Khan
+2024-02-28,Notebook,Stationery,5,50,250,Rajesh Kumar
+2024-06-22,Shampoo,Personal Care,1,100,100,Rajesh Kumar
+2024-05-29,Jeans,Clothing,3,1200,3600,Kiran Joshi
+2024-04-21,Pen,Stationery,1,20,20,Rajesh Kumar
+2024-01-12,Soap,Personal Care,5,40,200,Neha Singh
+2024-05-15,Jeans,Clothing,1,1200,1200,Sohail Khan
+2024-05-01,Jeans,Clothing,2,1200,2400,Amit Patel
+2024-02-02,Jeans,Clothing,5,1200,6000,Priya Verma
+2024-04-19,Notebook,Stationery,1,50,50,Amit Patel
+2024-05-27,Shampoo,Personal Care,4,100,400,Neha Singh
+2024-05-10,T-shirt,Clothing,3,500,1500,Rajesh Kumar
+2024-04-03,Pen,Stationery,5,20,100,Priya Verma
+2024-06-10,Pen,Stationery,2,20,40,Rajesh Kumar
+2024-02-18,Notebook,Stationery,5,50,250,Kiran Joshi
+2024-06-11,Oil,Grocery,3,150,450,Amit Patel
+2024-04-12,Rice,Grocery,1,60,60,Amit Patel
+2024-01-04,Soap,Personal Care,1,40,40,Rajesh Kumar
+2024-04-06,Jeans,Clothing,5,1200,6000,Priya Verma
+2024-03-27,T-shirt,Clothing,5,500,2500,Priya Verma
+2024-01-06,Soap,Personal Care,5,40,200,Amit Patel
+2024-01-09,Pen,Stationery,1,20,20,Sohail Khan
+2024-01-03,Shampoo,Personal Care,1,100,100,Sohail Khan
+2024-02-23,T-shirt,Clothing,5,500,2500,Neha Singh
+2024-04-21,Soap,Personal Care,1,40,40,Rajesh Kumar
+2024-01-18,Jeans,Clothing,1,1200,1200,Priya Verma
+2024-03-16,Soap,Personal Care,1,40,40,Rajesh Kumar
+2024-05-18,Jeans,Clothing,4,1200,4800,Neha Singh
+2024-04-13,Soap,Personal Care,1,40,40,Rajesh Kumar
+2024-03-02,Shampoo,Personal Care,4,100,400,Rajesh Kumar
+2024-06-14,T-shirt,Clothing,1,500,500,Amit Patel
+2024-02-18,Jeans,Clothing,1,1200,1200,Neha Singh
+2024-04-03,Oil,Grocery,3,150,450,Amit Patel
+2024-05-15,Soap,Personal Care,4,40,160,Kiran Joshi
+2024-02-19,Shampoo,Personal Care,4,100,400,Kiran Joshi
+2024-02-12,Pen,Stationery,2,20,40,Kiran Joshi
+2024-03-16,Notebook,Stationery,4,50,200,Sohail Khan
+2024-01-14,Oil,Grocery,4,150,600,Kiran Joshi
