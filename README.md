@@ -1,5 +1,7 @@
-# retail-sales-analysis
+# 🛒 Retail Sales Performance Analysis (6-Month Data)
+
  Sales performance analysis for a small business using Python and visualization
+ 
  📌 Retail Sales Performance Analysis (Python, Pandas, Matplotlib)
 
 📁 Project Overview :
@@ -8,7 +10,9 @@ It simulates a real freelance client request — perfect for business decision s
 
 🧰 Tools Used :
 * Python (Pandas, Matplotlib, Seaborn)
+  
 * Google Colab
+  
 * CSV-based dataset (simulated)
 
 📊 Key Business Insights :
