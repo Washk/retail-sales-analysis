@@ -1,6 +1,6 @@
 # retail-sales-analysis
  Sales performance analysis for a small business using Python and visualization
-📌 Retail Sales Performance Analysis (Python, Pandas, Matplotlib)
+ 📌 Retail Sales Performance Analysis (Python, Pandas, Matplotlib)
 
 📁 Project Overview :
 This project analyzes 6 months of retail sales data from a small business to uncover key insights in product performance, customer behavior, and revenue trends.
