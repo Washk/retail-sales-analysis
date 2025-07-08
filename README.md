@@ -40,10 +40,21 @@ It simulates a real freelance client request — perfect for business decision s
 * Offer promotions to top customers
 * Monitor revenue trends monthly
 
-### ▶️ How to Run
+### ▶️ How to Run :
 - Download `sales_data.csv` and open the `Retail_Sales_Analysis.ipynb` notebook.
   
 - Run in Google Colab or Jupyter Notebook.
   
 - Make sure `pandas`, `matplotlib`, and `seaborn` are installed.
+
+### 📸 Sample Output :
+
+**1. Monthly Revenue Trend**  
+![Monthly Revenue Trend](https://raw.githubusercontent.com/Washk/retail-sales-analysis/main/monthly_revenue_trend_resized_v2.png)
+
+**2. Revenue by Category**  
+![Revenue by Category](https://raw.githubusercontent.com/Washk/retail-sales-analysis/main/revenue_by_category_resized_v2.png)
+
+**3. Top-Selling Products**  
+![Top-Selling Products](https://raw.githubusercontent.com/Washk/retail-sales-analysis/main/top_selling_products_resized_v2.png)
 
